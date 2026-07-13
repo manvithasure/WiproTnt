@@ -1,3 +1,12 @@
-Roses are red.
-Ravi is reading a book.
-Programming in Java is great.
+a : 1
+are : 1
+book. : 1
+great. : 1
+in : 1
+is : 2
+java : 1
+programming : 1
+ravi : 1
+reading : 1
+red. : 1
+roses : 1
