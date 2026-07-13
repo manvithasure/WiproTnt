@@ -1,0 +1,3 @@
+Roses are red.
+Ravi is reading a book.
+Programming in Java is great.
